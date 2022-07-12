@@ -7,13 +7,13 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='cli_add',  
      version='0.1',
-     scripts=['add_cli'] ,
-     author="Deepak Kumar",
-     author_email="deepak.kumar.iet@gmail.com",
+     scripts=['add_cli.py'] ,
+     author="ashima",
+     author_email="ashima@snakescript.com",
      description="A Docker and AWS utility package",
      long_description=long_description,
    long_description_content_type="text/markdown",
-     url="https://github.com/javatechy/dokr",
+     url="https://github.com/ambhar/new_cli/add_cli",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
