@@ -1,0 +1,8 @@
+LICENSE
+README.md
+add_cli.py
+setup.py
+cli_add.egg-info/PKG-INFO
+cli_add.egg-info/SOURCES.txt
+cli_add.egg-info/dependency_links.txt
+cli_add.egg-info/top_level.txt
